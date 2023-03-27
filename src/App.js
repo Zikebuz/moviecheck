@@ -4,7 +4,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
 
-const REACT_APP_API_URL = 'http://www.omdbapi.com?apikey=529dc4a3'
+const REACT_APP_API_URL = 'https://www.omdbapi.com?apikey=529dc4a3'
 
 const App = () => {
 
